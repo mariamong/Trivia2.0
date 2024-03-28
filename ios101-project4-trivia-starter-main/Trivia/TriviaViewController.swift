@@ -32,7 +32,7 @@ class TriviaViewController: UIViewController {
     triviaService = TriviaQuestionService() // Instantiate the service
     fetchTriviaQuestions() // Call your method to fetch questions
       
-      let trivia1 = TriviaQuestion(category: "General Knowledge", question: "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?", correctAnswer: "Hewlett-Packard", incorrectAnswers: ["Toshiba","Asus","Dell"])
+     let trivia1 = TriviaQuestion(category: "General Knowledge", question: "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?", correctAnswer: "Hewlett-Packard", incorrectAnswers: ["Toshiba","Asus","Dell"])
       let trivia2 = TriviaQuestion(category: "General Knowledge", question: "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;", correctAnswer: "Economics", incorrectAnswers: ["Philosophy","Politics","Physics"])
       let trivia3 = TriviaQuestion(category: "General Knowledge", question: "What is the highest number of Michelin stars a restaurant can receive?", correctAnswer: "Three", incorrectAnswers: ["Four","Five","Six"])
       let trivia4 = TriviaQuestion(category: "General Knowledge", question: "The scientific name for the Southern Lights is Aurora Australis?", correctAnswer: "True", incorrectAnswers: ["False"])
