@@ -30,12 +30,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
-I do not think I could have done some of the methods without the use of AI.
-
 ## License
 
     Copyright [2024] [Mariam Gbadamosi]
