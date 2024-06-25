@@ -31,10 +31,7 @@ The following **additional** features are implemented:
 
 https://www.loom.com/share/6ebfd68829614f4ea104b8009c08ed71
 
-## Notes
 
-Describe any challenges encountered while building the app.
-I do not think I could have done some of the methods without the use of AI.
 
 ## License
 
